@@ -83,9 +83,9 @@ cdef int predict(self, int bc):   # C 型別宣告
 ```
 compression-final/
 ├── README.md
-├── DC_Final_Cython_SubmitVer.ipynb   # 主程式，含編譯與測試
-├── claude_v3.pyx                     # 壓縮核心（Cython）
-└── setup_v3.py                       # 編譯腳本
+├── TestCases/                           # 測試資料
+├── DC_Final_Cython_SubmitVer.ipynb      # 主程式，含編譯與測試
+├── DC_Final_Cython_ComparisonVer.ipynb  # 對照組的程式
 ```
 
 ---
