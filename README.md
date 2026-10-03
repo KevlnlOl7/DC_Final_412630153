@@ -1,5 +1,7 @@
 # 通用無損壓縮演算法 — Claude UCC
 
+**專案文件（HackMD）：** [資料壓縮期末報告](https://hackmd.io/PNuukO0TSu-l1cjz218BMg)
+
 > 淡江大學 資料壓縮期末報告
 > 資管 3C｜412630153｜張傢寧
 
